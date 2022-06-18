@@ -32,12 +32,12 @@
 
 ## 4. Membuat Controller 
 - Terletak di folder `app/Controllers`, buat file `Artikel.php`.
-![Foto](Foto/8.1.png)
+![Foto](foto/artikel.png)
 <br>
 
 ## 5. Membuat View pada artikel 
 - Terletak di folder `app/Views/artikel`, buat file `index.php`.
-![Foto](Foto/9.1.png)
+![Foto](foto/index.png)
 <br>
 
 - Buka browser, ketik http://localhost:8080/artikel 
