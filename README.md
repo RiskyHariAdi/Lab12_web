@@ -71,7 +71,7 @@
 
 ## 7. Membuat View pada Detail
 - Terletak di folder `app/Views/artikel`, buat file `detail.php`.
-![Foto](Foto/11.1.png)
+![Foto](foto/detail.png)
 <br>
 
 ## 8. Membuat Routing untuk artikel detail
