@@ -66,7 +66,7 @@
 
 ## 6. Membuat Tampilan detail Artikel
 - Terletak di folder `app/Controllers`, edit file `Artikel.php`. Tambah method ``view()``.
-![Foto](Foto/10.1.png)
+![Foto](foto/artikel1.png)
 <br>
 
 ## 7. Membuat View pada Detail
