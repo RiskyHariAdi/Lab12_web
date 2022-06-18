@@ -27,7 +27,7 @@
 
 ## 3. Membuat Model 
 - Terletak di folder `app/Models`, buat file `ArtikelModel.php`.
-![Foto](Foto/7.1.png)
+![Foto](foto/model.png)
 <br>
 
 ## 4. Membuat Controller 
