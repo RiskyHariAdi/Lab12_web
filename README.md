@@ -155,7 +155,7 @@
 
 ## 11. Menambah data untuk Artikel
 - Terletak di folder `app/Controller`, edit file `Artikel.php`. Tambah method `add()`.
-![Foto](Foto/15.1.png)
+![Foto](foto/artikel22.png)
 <br>
 
 - Akses kembali folder `app/Views/artikel`, buat file `form_add.php`.
