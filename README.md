@@ -159,7 +159,7 @@
 <br>
 
 - Akses kembali folder `app/Views/artikel`, buat file `form_add.php`.
-![Foto](Foto/15.2.png)
+![Foto](foto/formphp.png)
 <br>
 
 - Akses browser dengan http://localhost:8080/admin/artikel/add.
