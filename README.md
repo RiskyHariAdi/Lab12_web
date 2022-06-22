@@ -172,24 +172,24 @@
 <br>
 
 - Akses kembali folder `app/Views/artikel`, buat file `form_edit.php`.
-![Foto](Foto/16.2.png)
+![Foto](foto/formedit.png)
 <br>
 
 - Akses browser dengan http://localhost:8080/admin/artikel/edit/1 untuk Mengubah artikel pertama.
-![Foto](Foto/16.2.png)
+![Foto](foto/formedit.png)
 <br>
 
 ## 13. Menghapus data pada Artikel
 - Terletak di folder `app/Controller`, edit file `Artikel.php`. Tambah method `delete()`.
-![Foto](Foto/17.1.png)
+![Foto](foto/data.png)
 <br>
 
 - Akses browser dengan http://localhost:8080/admin/artikel/add untuk membuat artikel ketiga, lalu `kirim`.
-![Foto](Foto/17.2.png)
+![Foto](foto/web12.png)
 <br>
 
 - Untuk mengeceknya ketik di url, http://localhost:8080/artikel kemudian enter.
-![Foto](Foto/17.3.png)
+![Foto](foto/lab12.png)
 <br>
 
 - Pergi ke menu admin untuk menghapusnya, http://localhost:8080/admin/artikel, kemudian pilih `hapus`.
