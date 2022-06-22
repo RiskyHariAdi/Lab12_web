@@ -193,10 +193,10 @@
 <br>
 
 - Pergi ke menu admin untuk menghapusnya, http://localhost:8080/admin/artikel, kemudian pilih `hapus`.
-![Foto](Foto/17.4.png)
+![Foto](foto/delet.png)
 <br>
 
 - Artikel berhasil dihapus.
-![Foto](Foto/17.5.png)
+![Foto](foto/kelar.png)
 <br>
 </div>
