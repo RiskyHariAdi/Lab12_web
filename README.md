@@ -80,12 +80,12 @@
 <br>
 
 - Klik `Artikel Kedua` pada http://localhost:8080/artikel, untuk pindah ke detailnya.
-![Foto](Foto/12.2.png)
+![Foto](foto/artikel22.png)
 <br>
 
 ## 9. Membuat Menu admin
 - Terletak di folder `app/Controller`, edit file `Artikel.php`. Tambah method `admin_index()`.
-![Foto](Foto/13.1.png)
+![Foto](foto/index11.png)
 <br>
 
 - Selanjutnya, akses kembali folder `app/Views/artikel`, buat file `admin_index.php`.
@@ -137,20 +137,20 @@
 
 - Buka folder yang ada di ``app/Views/artikel/template``, kemudian buat:
 - ``admin_header.php``,
-![Foto](Foto/13.2.png)
+![Foto](foto/1212.png)
 <br>
 
 - ``admin_footer.php``
-![Foto](Foto/13.3.png)
+![Foto](foto/1111.png)
 <br>
 
 ## 10. Membuat Routing untuk menu admin
 - Terletak di folder `app/Config`, edit file `Routes.php`.
-![Foto](Foto/12.1.png)
+![Foto](foto/routes1.png)
 <br>
 
 - Akses browser dengan http://localhost:8080/admin/artikel.
-![Foto](Foto/14.1.png)
+![Foto](foto/ending12.png)
 <br>
 
 ## 11. Menambah data untuk Artikel
