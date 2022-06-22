@@ -76,7 +76,7 @@
 
 ## 8. Membuat Routing untuk artikel detail
 - Terletak di folder `app/Config`, edit file `Routes.php`.
-![Foto](Foto/12.1.png)
+![Foto](foto/routes.png)
 <br>
 
 - Klik `Artikel Kedua` pada http://localhost:8080/artikel, untuk pindah ke detailnya.
