@@ -61,7 +61,7 @@
 <br>
 
 - Refresh kembali browser.
-![Foto](Foto/9.3.png)
+![Foto](foto/artikel2.png)
 <br>
 
 ## 6. Membuat Tampilan detail Artikel
