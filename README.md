@@ -163,12 +163,12 @@
 <br>
 
 - Akses browser dengan http://localhost:8080/admin/artikel/add.
-![Foto](Foto/15.3.png)
+![Foto](foto/admin.png)
 <br>
 
 ## 12. Mengubah data pada Artikel
 - Terletak di folder `app/Controller`, edit file `Artikel.php`. Tambah method `edit()`.
-![Foto](Foto/16.1.png)
+![Foto](foto/artikel11.png)
 <br>
 
 - Akses kembali folder `app/Views/artikel`, buat file `form_edit.php`.
